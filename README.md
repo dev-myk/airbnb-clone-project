@@ -47,4 +47,29 @@ Weeks 11-12: Booking System & Checkout Process
 Weeks 13-14: Testing, Debugging, Optimization
 Weeks 15-16: Final Review & Presentation
 
+UI/UX Design Planning
 
+This section outlines the design goals and key features to be implemented for a user-friendly and intuitive booking experience.
+
+Design Goals
+
+Clarity and Simplicity: Users should be able to easily find what they're looking for and complete tasks without confusion.
+Visual Appeal: An attractive and modern design will enhance user experience and brand perception.
+Responsiveness: The platform should adapt seamlessly across different devices (desktop, mobile, tablet).
+Accessibility: Ensure the platform is accessible to users with disabilities.
+
+Key Features
+
+Feature Description
+Property Listing View   Displays a grid/list layout showcasing various properties with essential details like title, price, location, and a captivating image. Users can easily browse and filter listings.
+Listing Detailed View   Provides a dedicated page for each property, showcasing high-quality images, detailed descriptions, amenities, host information, and reviews. Users can zoom in on images, see availability calendars, and contact the host.
+Simple Checkout View    Streamlines the booking process. Users should be able to select dates, number of guests, and finalize the reservation with ease. Clear progress indicators and confirmation messages will enhance user confidence.
+
+Importance of User-Friendly Design
+A user-friendly design is crucial for a successful booking system. It directly impacts user experience and conversion rates. Here's why:
+
+Reduces Friction: An intuitive design minimizes user effort and frustration, leading to smoother booking processes.
+Increased Engagement: Engaging visuals and clear information keep users interested and exploring potential listings.
+Builds Trust: A consistent and well-designed platform builds user trust, encouraging them to confidently book properties.
+Competitive Advantage: A user-friendly platform stands out in the competitive market, attracting more users and bookings.
+By prioritizing user-friendliness in my design, I aim to create a booking system that is both efficient and enjoyable to use.
